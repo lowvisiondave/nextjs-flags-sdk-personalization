@@ -93,6 +93,15 @@ export default async function Page({ params }: { params: Params }) {
 								efficient handling of dynamic content based on URL parameters.
 							</p>
 
+							<a
+								className="text-blue-600 hover:underline"
+								href="https://github.com/lowvisiondave/nextjs-flags-sdk-personalization"
+								target="_blank"
+								rel="noreferrer"
+							>
+								View code on GitHub
+							</a>
+
 							<h3 className="text-lg font-semibold text-gray-700 mt-6 mb-2">
 								Feature Flag System
 							</h3>
