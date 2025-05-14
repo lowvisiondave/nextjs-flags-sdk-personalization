@@ -23,7 +23,7 @@ export default async function Page({ params }: { params: Params }) {
 				<div className="bg-white rounded-xl shadow-md overflow-hidden mb-8">
 					<div className="p-8">
 						<h1 className="text-2xl font-bold text-gray-800 mb-6">
-							Feature Flag Demo
+							Next.js Flags SDK Personalization Demo
 						</h1>
 
 						<div className="mb-6 p-4 bg-blue-50 rounded-lg border border-blue-100">
